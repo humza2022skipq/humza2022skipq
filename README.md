@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Humza
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Node.JS , Redux , MongoDB
+- 💞️ I’m looking to collaborate on Web App Dev, App Security
+- 📫 How to reach me : humzasajidskipq@gmail.com
